@@ -1,0 +1,23 @@
+{
+  "skill_name": "linkedin-multiformat-generator",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a LinkedIn campaign from one mining predictive-maintenance idea with text post, single image, 7-slide carousel, lead magnet, infographic static, GIF, and MP4 video outputs. Include a caption file and README publishing sequence.",
+      "expected_output": "Produces a complete multi-format asset package with static and motion deliverables and clear publish instructions.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "Use a text-safe Gemini background workflow to generate a premium infographic post and animated LinkedIn version while ensuring all final text is rendered crisply outside the image model.",
+      "expected_output": "Uses no-text background generation protocol and code-rendered final text with mobile-readable layout.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Build a reusable weekly LinkedIn content engine template that can turn one service offer into all major post formats, including video, with validation checks for dimensions and missing outputs.",
+      "expected_output": "Defines reusable workflow plus output validation and format coverage.",
+      "files": []
+    }
+  ]
+}

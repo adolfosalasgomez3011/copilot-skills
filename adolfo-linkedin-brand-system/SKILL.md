@@ -8,6 +8,7 @@ description: Create visually consistent, high-impact LinkedIn assets for Adolfo 
 Use this skill to turn Adolfo's mining operations expertise and advisory offers into a consistent visual language for LinkedIn.
 
 This skill is visual and production-oriented. Pair it with `linkedin-service-offer-ads` when the user needs both copy/offer strategy and publishable visual assets.
+For all-format campaigns that include static + motion/video outputs, pair this skill with `linkedin-multiformat-generator`.
 
 ## Brand Position
 
@@ -183,6 +184,20 @@ Use tools this way:
 
 When an image model is used, render final text yourself in code, Slidev, PPTX, or design tooling so LinkedIn text remains crisp and editable.
 
+## Premium Visual Workflow
+
+When the user asks for outputs that should be "amazing", "high impact", "engaging", "premium", "beautiful", or "professional", use a higher production bar:
+
+1. Review the previous asset or draft and name what is missing: weak metaphor, flat template, low contrast, generic imagery, poor hook, or insufficient mining specificity.
+2. Create a campaign-level visual metaphor before creating files. Strong examples: the haul road as the signal path, the control room as decision cadence, the fleet grid as operational rhythm, or ore layers as value leakage.
+3. Use Gemini or another image generator only for text-free background imagery or atmosphere. Prompts should explicitly say no text, no logos, no numbers, no UI panels, and no readable screens.
+4. Reject or down-rank generated images with hallucinated text, fake dashboards, or generic AI motifs. If used at all, crop/darken/blur them so they become texture rather than content.
+5. Render final headlines, labels, CTAs, diagrams, and page numbers directly in code, Slidev, PPTX, or canvas tooling.
+6. Produce a complete package: PDF carousel, single-image PNG/JPG, lead magnet when relevant, captions, README, and source/generator.
+7. Verify dimensions and preview at least the hero page and single image before finalizing.
+
+The goal is not only to be clear. The asset should feel like a premium mining executive advisory artifact: visually specific, strategically sharp, and mobile-readable.
+
 ## Production Output Rules
 
 When asked to create publishable assets, provide:
@@ -214,10 +229,12 @@ Before finalizing a visual output, verify:
 
 - It is legible on mobile.
 - The first slide or image has a strong hook.
+- The design has a specific visual metaphor, not only a styled template.
 - The palette feels executive and mining-relevant.
 - Text does not overlap or crowd the canvas.
 - One idea dominates each visual.
 - The CTA is visible but not desperate.
+- Generated imagery contains no unwanted text, fake UI labels, or accidental logos.
 - The output feels like Adolfo: practical, analytical, serious, and useful.
 - The asset is publishable without additional design work.
 

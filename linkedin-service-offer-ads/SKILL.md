@@ -190,6 +190,7 @@ For LinkedIn-specific research, avoid scraping private or login-gated data. Use 
 When the user wants files created:
 
 - Pair this skill with `adolfo-linkedin-brand-system` when the output is for Adolfo Salas, GoalPraxis, mining advisory, asset performance, AI/BI for mining, or personal-brand service offers. This skill defines the offer/copy/CTA; `adolfo-linkedin-brand-system` defines the visual identity and production rules.
+- Pair this skill with `linkedin-multiformat-generator` when the user wants one campaign transformed into all LinkedIn formats (text, single image, carousel, lead magnet, infographic, GIF, MP4/video).
 - Use Slidev for fast editable carousel-style decks.
 - Use PPTX when the user wants business-editable slides.
 - Use canvas/static design tools for one-page posters or ad images.
