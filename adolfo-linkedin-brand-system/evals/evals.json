@@ -1,0 +1,41 @@
+{
+  "skill_name": "adolfo-linkedin-brand-system",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a premium LinkedIn single-image post in Adolfo's brand style about dashboards not being the transformation.",
+      "expected_output": "A publishable visual concept or asset using the Adolfo palette, executive mining style, clear CTA, and mobile-legible text.",
+      "assertions": [
+        "Uses Graphite, Mineral White, Copper, and Deep Teal appropriately",
+        "Includes a dominant headline and minimal body copy",
+        "Uses a signal-to-action or decision-flow motif",
+        "Avoids generic influencer or SaaS styling",
+        "Is suitable for LinkedIn mobile viewing"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Create a 7-slide LinkedIn PDF carousel using the Adolfo brand system for mining predictive maintenance readiness.",
+      "expected_output": "A carousel plan or asset with 1080x1350 pages, one idea per slide, strong first-slide hook, and final CTA.",
+      "assertions": [
+        "Uses 6-8 portrait slides",
+        "Each slide has one clear idea",
+        "Uses mining executive visual language",
+        "Includes CTA slide",
+        "Keeps text legible and sparse"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Combine linkedin-service-offer-ads and adolfo-linkedin-brand-system to create a publishable GoalPraxis lead magnet.",
+      "expected_output": "A lead-magnet concept or asset with service-offer CTA, checklist utility, and Adolfo/GoalPraxis visual style.",
+      "assertions": [
+        "Combines offer strategy with visual brand rules",
+        "Includes checklist or diagnostic utility",
+        "Uses low-friction LinkedIn CTA",
+        "Avoids unsupported claims",
+        "Provides publishable file guidance"
+      ]
+    }
+  ]
+}

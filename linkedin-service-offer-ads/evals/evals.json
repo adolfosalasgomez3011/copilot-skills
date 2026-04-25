@@ -1,0 +1,42 @@
+{
+  "skill_name": "linkedin-service-offer-ads",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Create a LinkedIn carousel to offer my mining asset performance advisory service to COOs and maintenance leaders.",
+      "expected_output": "A LinkedIn service-offer package with audience, offer, carousel slide copy, caption, CTA, and production notes.",
+      "assertions": [
+        "Includes recommended LinkedIn format",
+        "Names target audience and buyer pain",
+        "Includes 6-8 carousel slides",
+        "Includes LinkedIn caption and CTA",
+        "Uses grounded operator-advisor voice",
+        "Avoids exaggerated or unsupported claims"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "Make 5 LinkedIn ad angles for GoalPraxis focused on AI-enabled business intelligence for mining operations.",
+      "expected_output": "Five distinct LinkedIn campaign angles with buyer pain, core message, CTA, and creative direction.",
+      "assertions": [
+        "Includes 5 distinct campaign angles",
+        "Connects AI/BI to mining operations outcomes",
+        "Includes buyer pain, message, CTA, and creative direction",
+        "Avoids empty AI buzzwords",
+        "Fits LinkedIn service-offer usage"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "Turn my predictive maintenance consulting offer into a single-image LinkedIn ad and an organic text post.",
+      "expected_output": "A direct-response single-image ad brief plus an organic LinkedIn post in a grounded advisor voice.",
+      "assertions": [
+        "Includes single-image ad headline, text, image concept, and CTA",
+        "Includes organic LinkedIn text post",
+        "Frames predictive maintenance as an operational/business system",
+        "Uses credible mining-advisor tone",
+        "Avoids guaranteed results without proof"
+      ]
+    }
+  ]
+}
